@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.json": "json",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "ostream": "cpp"
     }
 }
