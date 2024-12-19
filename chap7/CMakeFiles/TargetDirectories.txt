@@ -1,0 +1,3 @@
+/home/sha2ks/Code/github.com/cs106l-code/chap7/CMakeFiles/main.dir
+/home/sha2ks/Code/github.com/cs106l-code/chap7/CMakeFiles/edit_cache.dir
+/home/sha2ks/Code/github.com/cs106l-code/chap7/CMakeFiles/rebuild_cache.dir
