@@ -1,0 +1,9 @@
+# ninja log v6
+1	206	1734729434818305873	CMakeFiles/main.dir/src/StudentID.cpp.o	280a3bb377f99a95
+1	235	1734729434818305873	CMakeFiles/main.dir/src/Employee.cpp.o	6508e09a0f7696f2
+367	406	1734729435184981699	main	636976a0a0fc04ec
+1	246	1734729434818305873	CMakeFiles/main.dir/src/Person.cpp.o	6c038a1a5bdd3048
+1	249	1734729434818305873	CMakeFiles/main.dir/src/Student.cpp.o	7ec23f6e0dcdb829
+0	280	1734729434818305873	CMakeFiles/main.dir/main.cpp.o	f5ac9ad172a76fe3
+0	367	1734729434818305873	CMakeFiles/main.dir/src/SectionLeader.cpp.o	4789f458f0e9824f
+1	4	1734799386319893828	clean	a31eedcededa8236

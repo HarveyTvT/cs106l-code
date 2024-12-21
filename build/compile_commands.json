@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/sha2ks/Code/github.com/cs106l-code/build",
+  "command": "/usr/bin/g++ -I/home/sha2ks/Code/github.com/cs106l-code/chap7/include -g -std=gnu++20 -o CMakeFiles/main.dir/main.cpp.o -c /home/sha2ks/Code/github.com/cs106l-code/chap7/main.cpp",
+  "file": "/home/sha2ks/Code/github.com/cs106l-code/chap7/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sha2ks/Code/github.com/cs106l-code/build",
+  "command": "/usr/bin/g++ -I/home/sha2ks/Code/github.com/cs106l-code/chap7/include -g -std=gnu++20 -o CMakeFiles/main.dir/src/SectionLeader.cpp.o -c /home/sha2ks/Code/github.com/cs106l-code/chap7/src/SectionLeader.cpp",
+  "file": "/home/sha2ks/Code/github.com/cs106l-code/chap7/src/SectionLeader.cpp",
+  "output": "CMakeFiles/main.dir/src/SectionLeader.cpp.o"
+},
+{
+  "directory": "/home/sha2ks/Code/github.com/cs106l-code/build",
+  "command": "/usr/bin/g++ -I/home/sha2ks/Code/github.com/cs106l-code/chap7/include -g -std=gnu++20 -o CMakeFiles/main.dir/src/Employee.cpp.o -c /home/sha2ks/Code/github.com/cs106l-code/chap7/src/Employee.cpp",
+  "file": "/home/sha2ks/Code/github.com/cs106l-code/chap7/src/Employee.cpp",
+  "output": "CMakeFiles/main.dir/src/Employee.cpp.o"
+},
+{
+  "directory": "/home/sha2ks/Code/github.com/cs106l-code/build",
+  "command": "/usr/bin/g++ -I/home/sha2ks/Code/github.com/cs106l-code/chap7/include -g -std=gnu++20 -o CMakeFiles/main.dir/src/Person.cpp.o -c /home/sha2ks/Code/github.com/cs106l-code/chap7/src/Person.cpp",
+  "file": "/home/sha2ks/Code/github.com/cs106l-code/chap7/src/Person.cpp",
+  "output": "CMakeFiles/main.dir/src/Person.cpp.o"
+},
+{
+  "directory": "/home/sha2ks/Code/github.com/cs106l-code/build",
+  "command": "/usr/bin/g++ -I/home/sha2ks/Code/github.com/cs106l-code/chap7/include -g -std=gnu++20 -o CMakeFiles/main.dir/src/Student.cpp.o -c /home/sha2ks/Code/github.com/cs106l-code/chap7/src/Student.cpp",
+  "file": "/home/sha2ks/Code/github.com/cs106l-code/chap7/src/Student.cpp",
+  "output": "CMakeFiles/main.dir/src/Student.cpp.o"
+},
+{
+  "directory": "/home/sha2ks/Code/github.com/cs106l-code/build",
+  "command": "/usr/bin/g++ -I/home/sha2ks/Code/github.com/cs106l-code/chap7/include -g -std=gnu++20 -o CMakeFiles/main.dir/src/StudentID.cpp.o -c /home/sha2ks/Code/github.com/cs106l-code/chap7/src/StudentID.cpp",
+  "file": "/home/sha2ks/Code/github.com/cs106l-code/chap7/src/StudentID.cpp",
+  "output": "CMakeFiles/main.dir/src/StudentID.cpp.o"
+}
+]
